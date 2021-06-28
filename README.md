@@ -1,1 +1,3 @@
 # GitHubTest
+
+select * from githubtest
